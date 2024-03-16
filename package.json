@@ -1,0 +1,22 @@
+{
+  "name": "ota-func",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ota.js",
+  "scripts": {
+    "test": "node ota.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murmurlab/ota-updater.git"
+  },
+  "author": "murmur",
+  "license": "ISC",
+  "dependencies": {
+    "appdata-path": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/murmurlab/ota-updater/issues"
+  },
+  "homepage": "https://github.com/murmurlab/ota-updater#readme"
+}
